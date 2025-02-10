@@ -1,2 +1,2 @@
 #!/bin/bash
-tile -n 10 /etc/passwd
+cat tile -n 10 /etc/passwd
